@@ -132,16 +132,3 @@ ul{
     background-color:rgb(169, 185, 23);
     border-radius:50px;
 }
-.images img{
-    width:30%;
-    height:275px;
-    background-color:white;
-    float:right;
-    margin-top:20px;
-    margin-bottom:40px;
-    margin-left:110px;
-    margin-right:110px;
-    padding:10px;
-    border:1px #000 transparen;
-    border-radius:10%;
-}
